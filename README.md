@@ -1,2 +1,2 @@
 # Acamica Data Science
-Resumenes, ejercicios de la carrera de data science de Acámica.
+Resumenes y ejercicios de la carrera de data science de Acámica.
