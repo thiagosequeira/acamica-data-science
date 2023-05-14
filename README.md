@@ -8,9 +8,7 @@ Resumenes y ejercicios de la carrera de data science de Acámica.
   - Principios de Data Science y Programación
 - Semana 2
   - Estadística Descriptiva
-- Semana 3
-  - Análisis Exploratorio de Datos I
-- Semana 4
+- Semana 3/4
   - Análisis Exploratorio de Datos I
 - Semana 5
   - Análisis Exploratorio de Datos II
